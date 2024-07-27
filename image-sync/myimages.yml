@@ -1,2 +1,2 @@
-frps: "registry.cn-hangzhou.aliyuncs.com/nxgz/frps"
-frpc: "registry.cn-hangzhou.aliyuncs.com/nxgz/frpc"
+fatedier/frps: "registry.cn-hangzhou.aliyuncs.com/nxgz/frps"
+fatedier/frpc: "registry.cn-hangzhou.aliyuncs.com/nxgz/frpc"
