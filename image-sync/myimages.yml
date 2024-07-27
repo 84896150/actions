@@ -1,8 +1,2 @@
-phpmyadmin: "registry.cn-hangzhou.aliyuncs.com/nxgz/phpmyadmin"
-elasticsearch: "registry.cn-hangzhou.aliyuncs.com/nxgz/elasticsearch"
-minio: "registry.cn-hangzhou.aliyuncs.com/nxgz/minio"
 frps: "registry.cn-hangzhou.aliyuncs.com/nxgz/frps"
 frpc: "registry.cn-hangzhou.aliyuncs.com/nxgz/frpc"
-nginx: "registry.cn-hangzhou.aliyuncs.com/nxgz/nginx"
-pm2: "registry.cn-hangzhou.aliyuncs.com/nxgz/pm2"
-node: "registry.cn-hangzhou.aliyuncs.com/nxgz/node"
