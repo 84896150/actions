@@ -1,4 +1,4 @@
-name: Sync images
+name: Sync myimages
 
 on:
   workflow_dispatch:
