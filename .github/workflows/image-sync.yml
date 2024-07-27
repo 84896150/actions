@@ -2,8 +2,7 @@ name: Sync images
 
 on:
   workflow_dispatch:
-  watch:
-    types: [started]
+
 
 jobs:
   sync-images:
